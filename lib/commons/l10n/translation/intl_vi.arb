@@ -1,0 +1,10 @@
+{
+    "@@locale": "vi",
+    "language": "Tiếng Việt",
+    "app_name": "Photo App",
+
+    "@@login_page": "Login page",
+    "login_with_google": "Đăng nhập bằng Google"
+
+
+}

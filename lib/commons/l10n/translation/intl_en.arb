@@ -1,0 +1,10 @@
+{
+    "@@locale": "en",
+    "language": "English",
+    "app_name": "Photo App",
+
+    "@@login_page": "Login page",
+    "login_with_google": "Sign in with Google"
+    
+
+}
